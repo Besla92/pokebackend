@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Besla92/pokebackend.git"
+    "url": "git+https://github.com/norayrkaloyan/pokebackend.git"
   },
-  "author": "MB",
+  "author": "NK",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Besla92/pokebackend/issues"
+    "url": "https://github.com/norayrkaloyan/pokebackend/issues"
   },
-  "homepage": "https://github.com/Besla92/pokebackend#readme",
+  "homepage": "https://github.com/norayrkaloyan/pokebackend#readme",
   "dependencies": {
     "axios": "^0.27.2",
     "cool-ascii-faces": "^1.3.4",
